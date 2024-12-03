@@ -14,3 +14,10 @@ https://github.com/iurynovarino/linux_iac/blob/main/iac_del.sh
 <p align="center">
     <img width="350" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 </p>
+<br><br>
+## 3. Script para atualizar o servidor, criar um servidor apache e subir um site 🌐
+
+https://github.com/iurynovarino/linux_iac/blob/main/script_site.sh
+<p align="center">
+    <img width="350" src="https://media1.tenor.com/images/d5da666a1dabd19856f4e911b2ed613e/tenor.gif?itemid=5957913">
+</p>
